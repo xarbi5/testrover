@@ -12,7 +12,7 @@
     "request-promise": "^4.2.0",
     "standard": "^10.0.3",
     "uws": "^10.148.0",
-    "zlib-sync": "^0.1.4,
+    "zlib-sync": "^0.1.4"
   },
   "name": "rover",
   "version": "1.0.0",

@@ -13,12 +13,6 @@
     "standard": "^10.0.3",
     "uws": "^10.148.0",
     "zlib-sync": "^0.1.4,
-    {
-  "name": "yarn",
-  "installationMethod": "unknown",
-  "version": "0.16.2",
-  "license": "BSD-2-Clause",
-  "preferGlobal": true,
   },
   "name": "rover",
   "version": "1.0.0",
